@@ -1,9 +1,5 @@
 # Health Insurance Cross-Sell Prediction
 
-![Insurance](https://img.shields.io/badge/Insurance-Cross--Sell-blue)
-![Python](https://img.shields.io/badge/Python-3.7+-green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
